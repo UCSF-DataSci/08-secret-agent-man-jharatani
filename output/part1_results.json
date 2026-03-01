@@ -1,0 +1,80 @@
+{
+  "killer": "Larry",
+  "weapon": "Kitchen knife",
+  "motive": "Financial gain from the discovery of the treasure map and old coins",
+  "evidence": [
+    "The antler trophy was wiped clean of fingerprints, indicating premeditation.",
+    "Marcus's last text message at 10:28pm suggests a confrontation over ownership of the treasure map.",
+    "The unlocked back door indicates someone may have entered or exited without being noticed.",
+    "Larry's hiking boots had fresh mud, contradicting his claim of not going outside after dinner.",
+    "The small smear on the carpet near Larry's room could indicate a struggle or injury.",
+    "Sofia's camera captured images during the critical time frame, potentially showing Larry's actions.",
+    "The inside-out rubber glove suggests someone was trying to hide their involvement in the crime."
+  ],
+  "transcript": [
+    {
+      "action": "search",
+      "detail": "Searched Living Room"
+    },
+    {
+      "action": "search",
+      "detail": "Searched Kitchen"
+    },
+    {
+      "action": "search",
+      "detail": "Searched Mudroom / Back Entry"
+    },
+    {
+      "action": "search",
+      "detail": "Searched Upstairs Hallway"
+    },
+    {
+      "action": "search",
+      "detail": "Searched Back Porch"
+    },
+    {
+      "action": "search",
+      "detail": "Searched Marcus's Bedroom"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Diana Blackwood: What do you know about the unlocked back door?"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Larry Hoffman: Why do your boots have fresh mud on them when you said you didn't go outside aft"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Tom Chen: Did you hear anything unusual around 11pm when Diana's door was heard opening an"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Sofia Reyes: What did you capture in your photographs between 9:04pm and 11:27pm?"
+    },
+    {
+      "action": "response",
+      "detail": "Diana Blackwood: I know that the back door was unlocked, which is rather unusual for a cabin like that. It raises que"
+    },
+    {
+      "action": "response",
+      "detail": "Sofia Reyes: I was focused on capturing the snowfall and the way the light reflected off the snow. The long-expos"
+    },
+    {
+      "action": "response",
+      "detail": "Tom Chen: I didn't hear anything specific around that time, but I was on the phone with my wife. I did notice "
+    },
+    {
+      "action": "response",
+      "detail": "Larry Hoffman: Oh, uh, you know how it is! I must have stepped in some mud earlier in the day and just didn't notic"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Larry Hoffman: Why are your boots muddy?"
+    },
+    {
+      "action": "response",
+      "detail": "Larry Hoffman: Oh, uh, those? I must have stepped in some mud while I was out for a walk earlier. You know how it i"
+    }
+  ]
+}
